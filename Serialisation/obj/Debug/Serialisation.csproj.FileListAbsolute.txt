@@ -1,0 +1,7 @@
+C:\Users\juju_\source\repos\Serialisation\Serialisation\bin\Debug\Serialisation.exe.config
+C:\Users\juju_\source\repos\Serialisation\Serialisation\bin\Debug\Serialisation.exe
+C:\Users\juju_\source\repos\Serialisation\Serialisation\bin\Debug\Serialisation.pdb
+C:\Users\juju_\source\repos\Serialisation\Serialisation\obj\Debug\Serialisation.csprojResolveAssemblyReference.cache
+C:\Users\juju_\source\repos\Serialisation\Serialisation\obj\Debug\Serialisation.csproj.CoreCompileInputs.cache
+C:\Users\juju_\source\repos\Serialisation\Serialisation\obj\Debug\Serialisation.exe
+C:\Users\juju_\source\repos\Serialisation\Serialisation\obj\Debug\Serialisation.pdb

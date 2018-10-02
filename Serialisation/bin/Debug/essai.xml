@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PersonneSerialisee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Identifiant="1">
+  <Nom>Winch</Nom>
+  <Prenom>Largo</Prenom>
+  <Liste>
+    <Conquête>Danitza</Conquête>
+    <Conquête>Charity</Conquête>
+    <Conquête>Marilyn</Conquête>
+  </Liste>
+</PersonneSerialisee>

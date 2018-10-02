@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersonne xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Personne>
+    <ID>1</ID>
+    <Nom>Winch</Nom>
+    <Prenom>Largo</Prenom>
+    <Naissance>1975-07-15T00:00:00</Naissance>
+    <Lst>
+      <string>Danitza</string>
+      <string>Charity</string>
+      <string>Marilyn</string>
+    </Lst>
+  </Personne>
+  <Personne>
+    <ID>1</ID>
+    <Nom>Winch</Nom>
+    <Prenom>Largo</Prenom>
+    <Naissance>0001-01-01T00:00:00</Naissance>
+    <Lst>
+      <string>Danitza</string>
+      <string>Charity</string>
+      <string>Marilyn</string>
+    </Lst>
+  </Personne>
+  <Personne>
+    <ID>1</ID>
+    <Nom>Winch</Nom>
+    <Prenom>Largo</Prenom>
+    <Naissance>1975-07-15T00:00:00</Naissance>
+    <Lst>
+      <string>Danitza</string>
+      <string>Charity</string>
+      <string>Marilyn</string>
+    </Lst>
+  </Personne>
+  <Personne>
+    <ID>1</ID>
+    <Nom>Winch</Nom>
+    <Prenom>Largo</Prenom>
+    <Naissance>1975-07-15T00:00:00</Naissance>
+    <Lst>
+      <string>Danitza</string>
+      <string>Charity</string>
+      <string>Marilyn</string>
+    </Lst>
+  </Personne>
+</ArrayOfPersonne>
